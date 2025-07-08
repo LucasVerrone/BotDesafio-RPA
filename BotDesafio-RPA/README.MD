@@ -17,7 +17,8 @@ Pré-requisitos
 
 Instalação
 1.Clone o repositório:
-
+git clone https://github.com/LucasVerrone/BotDesafio-RPA
+cd BotDesafio-RPA
 
 Instale as dependências
 2.pip install -r requirements.txt
