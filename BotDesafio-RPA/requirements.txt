@@ -1,0 +1,11 @@
+# Requirements para o Funcionamento do BotDesafio-RPA
+# Instale as bibliotecas abaixo usando o comando:
+# pip install -r requirements.txt
+selenium==4.9.1
+
+# Pacotes padrão do Python utilizados
+# Não precisam ser instalados separadamente
+# base64
+# json 
+# os
+# time
